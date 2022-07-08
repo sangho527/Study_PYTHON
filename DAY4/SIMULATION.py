@@ -14,7 +14,7 @@ for plan in plans:
             
     if nx < 1 or ny < 1 or nx > n or ny > n:
     	continue
-        
+         
     x,y = nx, ny
 
 print('모험가 최종 좌표 : ', x, y)
